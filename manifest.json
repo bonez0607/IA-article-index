@@ -1,0 +1,10 @@
+{
+    "short_name": "IA Library",
+    "name" : "Inside Agroforestry Article Index",
+    "icons" : [{
+        "src": "img/us_flag_small.png",
+        "type": "image/png",
+        "sizes": "192X192"
+    }],
+    "start_url": "articles-library-jbanegas.c9users.io/Webinar_Library_1.3.php?"
+}

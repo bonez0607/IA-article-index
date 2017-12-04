@@ -1,0 +1,686 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<article>
+		<year>2017</year>
+		<volume>25</volume>
+		<issue>1</issue>
+		<topic>New Ways for Old Terrain</topic>
+		<author>Diomy Zamora</author>
+		<practice>SP</practice>
+		<region>Midwest</region>
+		<state>MN</state>
+		<case-study>Y</case-study>
+		<image>https://nac.unl.edu/images/publications/insideagroforestry/IA-Vol25Issue1-WhyAF-Pt2.png</image>
+		<url>http://nac.unl.edu/documents/insideagroforestry/IA-Vol25Issue1-WhyAF-Pt2.pdf#page=3</url>
+	</article>
+	<article>
+		<year>2017</year>
+		<volume>25</volume>
+		<issue>1</issue>
+		<topic>Lessons from growing ginseng</topic>
+		<author>Kate MacFarland</author>
+		<practice>FF</practice>
+		<region>Northeast</region>
+		<state>PA</state>
+		<case-study>Y</case-study>
+		<image>https://nac.unl.edu/images/publications/insideagroforestry/IA-Vol25Issue1-WhyAF-Pt2.png</image>
+		<url>http://nac.unl.edu/documents/insideagroforestry/IA-Vol25Issue1-WhyAF-Pt2.pdf#page=5</url>
+	</article>
+	<article>
+		<year>2017</year>
+		<volume>25</volume>
+		<issue>1</issue>
+		<topic>Confluence Farms: Habitat and Farmland Benefit from Partnerships in the Long Tom Watershed</topic>
+		<author>Katie MacKendrick</author>
+		<practice>RFB</practice>
+		<region>Northwest</region>
+		<state>OR</state>
+		<case-study>Y</case-study>
+		<image>https://nac.unl.edu/images/publications/insideagroforestry/IA-Vol25Issue1-WhyAF-Pt2.png</image>
+		<url>http://nac.unl.edu/documents/insideagroforestry/IA-Vol25Issue1-WhyAF-Pt2.pdf#page=4</url>
+	</article>
+	<article>
+		<year>2017</year>
+		<volume>25</volume>
+		<issue>1</issue>
+		<topic>Conservation and Biological Diversity in Organic Production</topic>
+		<author>Miles McEvoy, Lindsay Haines</author>
+		<practice>All</practice>
+		<region>All</region>
+		<keywords>organic</keywords>
+		<case-study>N</case-study>
+		<image>https://nac.unl.edu/images/publications/insideagroforestry/IA-Vol25Issue1-WhyAF-Pt2.png</image>
+		<url>http://nac.unl.edu/documents/insideagroforestry/IA-Vol25Issue1-WhyAF-Pt2.pdf#page=6</url>
+	</article>
+	<article>
+		<year>2017</year>
+		<volume>25</volume>
+		<issue>1</issue>
+		<topic>Agroforestry for New Farmers: Unexpected Benefits</topic>
+		<author>Kate MacFarland</author>
+		<practice>AC</practice>
+		<region>Midwest</region>
+		<state>WI</state>
+		<case-study>Y</case-study>
+		<image>https://nac.unl.edu/images/publications/insideagroforestry/IA-Vol25Issue1-WhyAF-Pt2.png</image>
+		<url>http://nac.unl.edu/documents/insideagroforestry/IA-Vol25Issue1-WhyAF-Pt2.pdf#page=8</url>
+	</article>
+	<article>
+		<year>2017</year>
+		<volume>25</volume>
+		<issue>1</issue>
+		<topic>In Brief: A periodic summary of agroforestry-related journal articles</topic>
+		<author>John S. Weedon</author>
+		<practice>SP, All</practice>
+		<case-study>N</case-study>
+		<image>https://nac.unl.edu/images/publications/insideagroforestry/IA-Vol25Issue1-WhyAF-Pt2.png</image>
+		<url>http://nac.unl.edu/documents/insideagroforestry/IA-Vol25Issue1-WhyAF-Pt2.pdf#page=9</url>
+	</article>
+	<article>
+		<year>2017</year>
+		<volume>25</volume>
+		<issue>1</issue>
+		<topic>Back to the Future: Producer Implements Silvopastures to Create a New Two-Story Agriculture</topic>
+		<author>John Fike</author>
+		<practice>SP</practice>
+		<region>Southeast</region>
+		<state>VA</state>
+		<case-study>Y</case-study>
+		<image>https://nac.unl.edu/images/publications/insideagroforestry/IA-Vol25Issue1-WhyAF-Pt2.png</image>
+		<url>http://nac.unl.edu/documents/insideagroforestry/IA-Vol25Issue1-WhyAF-Pt2.pdf#page=10</url>
+	</article>
+	<article>
+		<year>2017</year>
+		<volume>25</volume>
+		<issue>1</issue>
+		<topic>Rosmann Family Farms: Combining Windbreaks, Organic Practices, and Pollinators</topic>
+		<author>Rich Straight</author>
+		<practice>Many</practice>
+		<region>Midwest</region>
+		<state>IA</state>
+		<case-study>Y</case-study>
+		<image>https://nac.unl.edu/images/publications/insideagroforestry/IA-Vol25Issue1-WhyAF-Pt2.png</image>
+		<url>http://nac.unl.edu/documents/insideagroforestry/IA-Vol25Issue1-WhyAF-Pt2.pdf#page=2</url>
+	</article>
+	<article>
+		<year>2016</year>
+		<volume>24</volume>
+		<issue>2</issue>
+		<topic>Why a Savanna Institute?</topic>
+		<author>Keefe Keeley</author>
+		<practice>All</practice>
+		<region>Midwest</region>
+		<case-study>N</case-study>
+		<image>https://nac.unl.edu/images/publications/insideagroforestry/IA-Vol24Issue2.jpg</image>
+		<url>http://nac.unl.edu/documents/insideagroforestry/IA-Vol24Issue2.pdf#page=12</url>
+	</article>
+	<article>
+		<year>2016</year>
+		<volume>24</volume>
+		<issue>2</issue>
+		<topic>Laughing Stock Farm Improves Watershed Health and Habitat alongside Livestock Stewardship</topic>
+		<author>Katie MacKendrick</author>
+		<practice>RFB</practice>
+		<region>Northwest</region>
+		<state>OR</state>
+		<case-study>Y</case-study>
+		<image>https://nac.unl.edu/images/publications/insideagroforestry/IA-Vol24Issue2.jpg</image>
+		<url>http://nac.unl.edu/documents/insideagroforestry/IA-Vol24Issue2.pdf#page=14</url>
+	</article>
+	<article>
+		<year>2016</year>
+		<volume>24</volume>
+		<issue>2</issue>
+		<topic>Can You Help Windbreak Researchers?</topic>
+		<author>Craig Stange</author>
+		<practice>WB</practice>
+		<region>Great Plains</region>
+		<case-study>N</case-study>
+		<image>https://nac.unl.edu/images/publications/insideagroforestry/IA-Vol24Issue2.jpg</image>
+		<url>http://nac.unl.edu/documents/insideagroforestry/IA-Vol24Issue2.pdf#page=3</url>
+	</article>
+	<article>
+		<year>2016</year>
+		<volume>24</volume>
+		<issue>2</issue>
+		<topic>Certified-Organic Indigenous Agroforestry in the Sacramento Valley</topic>
+		<author>Greg House</author>
+		<practice>SP</practice>
+		<region>West</region>
+		<state>CA</state>
+		<keywords>organic</keywords>
+		<case-study>Y</case-study>
+		<image>https://nac.unl.edu/images/publications/insideagroforestry/IA-Vol24Issue2.jpg</image>
+		<url>http://nac.unl.edu/documents/insideagroforestry/IA-Vol24Issue2.pdf#page=6</url>
+	</article>
+	<article>
+		<year>2016</year>
+		<volume>24</volume>
+		<issue>2</issue>
+		<topic>Why Plant a Community Food Forest?</topic>
+		<author>Catherine Bukowski</author>
+		<practice>FF</practice>
+		<region>All</region>
+		<keywords>urban</keywords>
+		<case-study>N</case-study>
+		<image>https://nac.unl.edu/images/publications/insideagroforestry/IA-Vol24Issue2.jpg</image>
+		<url>http://nac.unl.edu/documents/insideagroforestry/IA-Vol24Issue2.pdf#page=</url>
+	</article>
+	<article>
+		<year>2016</year>
+		<volume>24</volume>
+		<issue>2</issue>
+		<topic>Silvopasture Opportunity Provides Producer Benefits for Life’s Transitions</topic>
+		<author>John Fike</author>
+		<practice>SP</practice>
+		<region>Southeast</region>
+		<state>VA</state>
+		<case-study>Y</case-study>
+		<image>https://nac.unl.edu/images/publications/insideagroforestry/IA-Vol24Issue2.jpg</image>
+		<url>http://nac.unl.edu/documents/insideagroforestry/IA-Vol24Issue2.pdf#page=4</url>
+	</article>
+	<article>
+		<year>2016</year>
+		<volume>24</volume>
+		<issue>2</issue>
+		<topic>Silvopasure From a Forester's Perspective</topic>
+		<author>Adam Downing</author>
+		<practice>SP</practice>
+		<region>Southeast</region>
+		<state>VA</state>
+		<case-study>N</case-study>
+		<image>https://nac.unl.edu/images/publications/insideagroforestry/IA-Vol24Issue2.jpg</image>
+		<url>http://nac.unl.edu/documents/insideagroforestry/IA-Vol24Issue2.pdf#page=5</url>
+	</article>
+	<article>
+		<year>2016</year>
+		<volume>24</volume>
+		<issue>2</issue>
+		<topic>Ecosystem-based Adaptation: Cultivating Climate Resilience with Agroforestry</topic>
+		<author>Laura Lengnick</author>
+		<practice>All</practice>
+		<region>All</region>
+		<case-study>N</case-study>
+		<image>https://nac.unl.edu/images/publications/insideagroforestry/IA-Vol24Issue2.jpg</image>
+		<url>http://nac.unl.edu/documents/insideagroforestry/IA-Vol24Issue2.pdf#page=10</url>
+	</article>
+	<article>
+		<year>2016</year>
+		<volume>24</volume>
+		<issue>2</issue>
+		<topic>Multifunctional Riparian Forest Buffers: A Tool for Merging Conservation and Production</topic>
+		<author>Gary Bentrup, Katie Commender</author>
+		<practice>RFB</practice>
+		<region>All</region>
+		<case-study>N</case-study>
+		<image>https://nac.unl.edu/images/publications/insideagroforestry/IA-Vol24Issue2.jpg</image>
+		<url>http://nac.unl.edu/documents/insideagroforestry/IA-Vol24Issue2.pdf#page=2</url>
+	</article>
+	<article>
+		<year>2016</year>
+		<volume>24</volume>
+		<issue>2</issue>
+		<topic>In Brief: A periodic summary of agroforestry-related journal articles</topic>
+		<author>John S. Weedon</author>
+		<practice>SP, RFB</practice>
+		<region>All</region>
+		<case-study>N</case-study>
+		<image>https://nac.unl.edu/images/publications/insideagroforestry/IA-Vol24Issue2.jpg</image>
+		<url>http://nac.unl.edu/documents/insideagroforestry/IA-Vol24Issue2.pdf#page=15</url>
+	</article>
+	<article>
+		<year>2016</year>
+		<volume>24</volume>
+		<issue>1</issue>
+		<topic>Farm Bill 2014: Agroforestry</topic>
+		<author>NAC Staff</author>
+		<practice>All</practice>
+		<region>All</region>
+		<case-study>N</case-study>
+		<image>https://nac.unl.edu/images/publications/insideagroforestry/IAVol24Issue1.jpg</image>
+		<url>http://nac.unl.edu/documents/insideagroforestry/IA-Vol24Issue1.pdf#page=3</url>
+	</article>
+	<article>
+		<year>2016</year>
+		<volume>24</volume>
+		<issue>1</issue>
+		<topic>Sweetening the pot for conservation: voucher program to accellerate the use of federal programs for forested riparian buffers and other agricultural BMPs in Pennsylvania's portion of the Chesapeake Bay Watershed</topic>
+		<author>Clair Ryan</author>
+		<practice>RFB</practice>
+		<region>Mid-Atlantic</region>
+		<case-study>N</case-study>
+		<image>https://nac.unl.edu/images/publications/insideagroforestry/IAVol24Issue1.jpg</image>
+		<url>http://nac.unl.edu/documents/insideagroforestry/IA-Vol24Issue1.pdf#page=9</url>
+	</article>
+	<article>
+		<year>2016</year>
+		<volume>24</volume>
+		<issue>1</issue>
+		<topic>Finding Agroforestry Opportunities within SARE</topic>
+		<author>Kate MacFarland</author>
+		<practice>All</practice>
+		<region>All</region>
+		<case-study>N</case-study>
+		<image>https://nac.unl.edu/images/publications/insideagroforestry/IAVol24Issue1.jpg</image>
+		<url>http://nac.unl.edu/documents/insideagroforestry/IA-Vol24Issue1.pdf#page=2</url>
+	</article>
+	<article>
+		<year>2016</year>
+		<volume>24</volume>
+		<issue>1</issue>
+		<topic>Implementing silvopasture with farm bill programs</topic>
+		<author>Tom Ward</author>
+		<practice>SP</practice>
+		<region>All</region>
+		<case-study>N</case-study>
+		<image>https://nac.unl.edu/images/publications/insideagroforestry/IAVol24Issue1.jpg</image>
+		<url>http://nac.unl.edu/documents/insideagroforestry/IA-Vol24Issue1.pdf#page=11</url>
+	</article>
+	<article>
+		<year>2016</year>
+		<volume>24</volume>
+		<issue>1</issue>
+		<topic>Financial assistance for living snow fences in Minnesota</topic>
+		<author>Eric Ogdahl</author>
+		<practice>WB</practice>
+		<region>Midwest</region>
+		<state>MN</state>
+		<case-study>N</case-study>
+		<image>https://nac.unl.edu/images/publications/insideagroforestry/IAVol24Issue1.jpg</image>
+		<url>http://nac.unl.edu/documents/insideagroforestry/IA-Vol24Issue1.pdf#page=4</url>
+	</article>
+	<article>
+		<year>2016</year>
+		<volume>24</volume>
+		<issue>1</issue>
+		<topic>Converting Planted Pine to Silvopasture</topic>
+		<author>Michael Goodchild</author>
+		<practice>SP</practice>
+		<region>Southeast</region>
+		<state>FL</state>
+		<case-study>N</case-study>
+		<image>https://nac.unl.edu/images/publications/insideagroforestry/IAVol24Issue1.jpg</image>
+		<url>http://nac.unl.edu/documents/insideagroforestry/IA-Vol24Issue1.pdf#page=5</url>
+	</article>
+	<article>
+		<year>2016</year>
+		<volume>24</volume>
+		<issue>1</issue>
+		<topic>Opportunities and Constraints: Using federal cost-share for a multifunctional riparian buffer establishment</topic>
+		<author>Kate MacFarland, Katie Commender</author>
+		<practice>RFB</practice>
+		<region>Southeast</region>
+		<state>VA</state>
+		<case-study>N</case-study>
+		<image>https://nac.unl.edu/images/publications/insideagroforestry/IAVol24Issue1.jpg</image>
+		<url>http://nac.unl.edu/documents/insideagroforestry/IA-Vol24Issue1.pdf#page=8</url>
+	</article>
+	<article>
+		<year>2016</year>
+		<volume>24</volume>
+		<issue>1</issue>
+		<topic>Whole farm revenue protection: Reforming Risk Management for Diversified Farming Operations</topic>
+		<author>James Robinson</author>
+		<practice>All</practice>
+		<region>All</region>
+		<case-study>N</case-study>
+		<image>https://nac.unl.edu/images/publications/insideagroforestry/IAVol24Issue1.jpg</image>
+		<url>http://nac.unl.edu/documents/insideagroforestry/IA-Vol24Issue1.pdf#page=6</url>
+	</article>
+	<article>
+		<year>2015</year>
+		<volume>23</volume>
+		<issue>3</issue>
+		<topic>How did the most common temperate agroforestry practices evolve? Alley Cropping</topic>
+		<author>Gene Garrett</author>
+		<practice>AC</practice>
+		<region>All</region>
+		<case-study>N</case-study>
+		<image>https://nac.unl.edu/images/publications/insideagroforestry/iaVol23Issue3.jpg</image>
+		<url>https://nac.unl.edu/documents/insideagroforestry/IA_Vol23Issue3.pdf#page=15</url>
+	</article>
+	<article>
+		<year>2015</year>
+		<volume>23</volume>
+		<issue>3</issue>
+		<topic>How did the most common temperate agroforestry practices evolve? Riparian Forest Buffers</topic>
+		<author>Richard Straight</author>
+		<practice>RFB</practice>
+		<region>All</region>
+		<case-study>N</case-study>
+		<image>https://nac.unl.edu/images/publications/insideagroforestry/iaVol23Issue3.jpg</image>
+		<url>https://nac.unl.edu/documents/insideagroforestry/IA_Vol23Issue3.pdf#page=4</url>
+	</article>
+	<article>
+		<year>2015</year>
+		<volume>23</volume>
+		<issue>3</issue>
+		<topic>How did the most common temperate agroforestry practices evolve? Windbreaks</topic>
+		<author>Bruce Wight</author>
+		<practice>WB</practice>
+		<region>All</region>
+		<case-study>N</case-study>
+		<image>https://nac.unl.edu/images/publications/insideagroforestry/iaVol23Issue3.jpg</image>
+		<url>https://nac.unl.edu/documents/insideagroforestry/IA_Vol23Issue3.pdf#page=4</url>
+	</article>
+	<article>
+		<year>2015</year>
+		<volume>23</volume>
+		<issue>3</issue>
+		<topic>How did the most common temperate agroforestry practices evolve? Silvopasture</topic>
+		<author>Rich Straight</author>
+		<practice>SP</practice>
+		<region>All</region>
+		<case-study>N</case-study>
+		<image>https://nac.unl.edu/images/publications/insideagroforestry/iaVol23Issue3.jpg</image>
+		<url>https://nac.unl.edu/documents/insideagroforestry/IA_Vol23Issue3.pdf#page=5</url>
+	</article>
+	<article>
+		<year>2015</year>
+		<volume>23</volume>
+		<issue>3</issue>
+		<topic>How did the most common temperate agroforestry practices evolve? Forest Farming</topic>
+		<author>Catherine Bukowski</author>
+		<practice>FF</practice>
+		<region>All</region>
+		<case-study>N</case-study>
+		<image>https://nac.unl.edu/images/publications/insideagroforestry/iaVol23Issue3.jpg</image>
+		<url>https://nac.unl.edu/documents/insideagroforestry/IA_Vol23Issue3.pdf#page=5</url>
+	</article>
+	<article>
+		<year>2015</year>
+		<volume>23</volume>
+		<issue>3</issue>
+		<topic>Agroforestry Working Groups, Communities, and Networks</topic>
+		<author>Kate MacFarland</author>
+		<practice>All</practice>
+		<region>All</region>
+		<case-study>N</case-study>
+		<image>https://nac.unl.edu/images/publications/insideagroforestry/iaVol23Issue3.jpg</image>
+		<url>https://nac.unl.edu/documents/insideagroforestry/IA_Vol23Issue3.pdf#page=12</url>
+	</article>
+	<article>
+		<year>2015</year>
+		<volume>23</volume>
+		<issue>3</issue>
+		<topic>Evolution of U.S. Agroforestry Research and Formalization of Agroforestry Education</topic>
+		<author>Mike Gold</author>
+		<practice>All</practice>
+		<region>All</region>
+		<case-study>N</case-study>
+		<image>https://nac.unl.edu/images/publications/insideagroforestry/iaVol23Issue3.jpg</image>
+		<url>https://nac.unl.edu/documents/insideagroforestry/IA_Vol23Issue3.pdf#page=10</url>
+	</article>
+	<article>
+		<year>2015</year>
+		<volume>23</volume>
+		<issue>3</issue>
+		<topic>25 Years of Research at NAC</topic>
+		<author>Michele Schoeneberger, Kate MacFarland</author>
+		<practice>All</practice>
+		<region>All</region>
+		<case-study>N</case-study>
+		<image>https://nac.unl.edu/images/publications/insideagroforestry/iaVol23Issue3.jpg</image>
+		<url>https://nac.unl.edu/documents/insideagroforestry/IA_Vol23Issue3.pdf#page=8</url>
+	</article>
+	<article>
+		<year>2015</year>
+		<volume>23</volume>
+		<issue>3</issue>
+		<topic>Tech Transfer: Back to the Future</topic>
+		<author>Kate MacFarland</author>
+		<practice>All</practice>
+		<region>All</region>
+		<case-study>N</case-study>
+		<image>https://nac.unl.edu/images/publications/insideagroforestry/iaVol23Issue3.jpg</image>
+		<url>https://nac.unl.edu/documents/insideagroforestry/IA_Vol23Issue3.pdf#page=7</url>
+	</article>
+	<article>
+		<year>2015</year>
+		<volume>23</volume>
+		<issue>3</issue>
+		<topic>Agroforestry Policy at USDA</topic>
+		<author>Eric Norland</author>
+		<practice>All</practice>
+		<region>All</region>
+		<case-study>N</case-study>
+		<image>https://nac.unl.edu/images/publications/insideagroforestry/iaVol23Issue3.jpg</image>
+		<url>https://nac.unl.edu/documents/insideagroforestry/IA_Vol23Issue3.pdf#page=6</url>
+	</article>
+	<article>
+		<year>2015</year>
+		<volume>23</volume>
+		<issue>3</issue>
+		<topic>Direct(ors') Perspective</topic>
+		<author>Richard Straight</author>
+		<practice>All</practice>
+		<region>All</region>
+		<case-study>N</case-study>
+		<image>https://nac.unl.edu/images/publications/insideagroforestry/iaVol23Issue3.jpg</image>
+		<url>https://nac.unl.edu/documents/insideagroforestry/IA_Vol23Issue3.pdf#page=14</url>
+	</article>
+	<article>
+		<year>2015</year>
+		<volume>23</volume>
+		<issue>3</issue>
+		<topic>Developing the Technical Standards for Agroforestry</topic>
+		<author>Kate MacFarland, Bruce Wight</author>
+		<practice>All</practice>
+		<region>All</region>
+		<case-study>N</case-study>
+		<image>https://nac.unl.edu/images/publications/insideagroforestry/iaVol23Issue3.jpg</image>
+		<url>http://nac.unl.edu/documents/insideagroforestry/IA_Vol23Issue3.pdf#page=3</url>
+	</article>
+	<article>
+		<year>2015</year>
+		<volume>23</volume>
+		<issue>3</issue>
+		<topic>USFS S&amp;PF Cooperative Forestry and the USDA National Agroforestry Center</topic>
+		<author>Kate MacFarland</author>
+		<practice>All</practice>
+		<region>All</region>
+		<case-study>N</case-study>
+		<image>https://nac.unl.edu/images/publications/insideagroforestry/iaVol23Issue3.jpg</image>
+		<url>http://nac.unl.edu/documents/insideagroforestry/IA_Vol23Issue3.pdf#page=2</url>
+	</article>
+	<article>
+		<year>2015</year>
+		<volume>23</volume>
+		<issue>3</issue>
+		<topic>Agroforestry at the National Institute of Food and Agriculture</topic>
+		<author>Eric Norland</author>
+		<practice>All</practice>
+		<region>All</region>
+		<case-study>N</case-study>
+		<image>https://nac.unl.edu/images/publications/insideagroforestry/iaVol23Issue3.jpg</image>
+		<url>https://nac.unl.edu/documents/insideagroforestry/IA_Vol23Issue3.pdf#page=13</url>
+	</article>
+	<article>
+		<year>2017</year>
+		<volume>25</volume>
+		<issue>2</issue>
+		<topic>News on Agroforestry Notes</topic>
+		<author>NAC Staff</author>
+		<practice>All</practice>
+		<region>All</region>
+		<keywords>new farmers</keywords>
+		<case-study>N</case-study>
+		<image>https://nac.unl.edu/images/publications/insideagroforestry/IA-Vol25Issue3.jpg</image>
+		<url>https://nac.unl.edu/documents/insideagroforestry/IA-Vol25Issue2.pdf#page=2</url>
+	</article>
+	<article>
+		<year>2017</year>
+		<volume>25</volume>
+		<issue>2</issue>
+		<topic>Growing Tomorrow, Today</topic>
+		<author>Lila McFarland</author>
+		<practice>All</practice>
+		<region>All</region>
+		<keywords>new farmers</keywords>
+		<case-study>N</case-study>
+		<image>https://nac.unl.edu/images/publications/insideagroforestry/IA-Vol25Issue3.jpg</image>
+		<url>https://nac.unl.edu/documents/insideagroforestry/IA-Vol25Issue2.pdf#page=3</url>
+	</article>
+	<article>
+		<year>2017</year>
+		<volume>25</volume>
+		<issue>2</issue>
+		<topic>Forest Farming for New Farmers</topic>
+		<author>Holly Chittum</author>
+		<practice>FF</practice>
+		<region>Appalachia</region>
+		<keywords>new farmers</keywords>
+		<case-study>N</case-study>
+		<image>https://nac.unl.edu/images/publications/insideagroforestry/IA-Vol25Issue3.jpg</image>
+		<url>https://nac.unl.edu/documents/insideagroforestry/IA-Vol25Issue2.pdf#page=4</url>
+	</article>
+	<article>
+		<year>2017</year>
+		<volume>25</volume>
+		<issue>2</issue>
+		<topic>Agroforestry in the Tropics</topic>
+		<author>Scott Gallant</author>
+		<practice>All</practice>
+		<region>Caribbean</region>
+		<keywords>new farmers</keywords>
+		<case-study>Y</case-study>
+		<image>https://nac.unl.edu/images/publications/insideagroforestry/IA-Vol25Issue3.jpg</image>
+		<url>https://nac.unl.edu/documents/insideagroforestry/IA-Vol25Issue2.pdf#page=6</url>
+	</article>
+	<article>
+		<year>2017</year>
+		<volume>25</volume>
+		<issue>2</issue>
+		<topic>Military Veteran Farmers Practicing Agroforestry</topic>
+		<author>Hyelee Won</author>
+		<practice>All</practice>
+		<region>All</region>
+		<keywords>new farmers</keywords>
+		<case-study>N</case-study>
+		<image>https://nac.unl.edu/images/publications/insideagroforestry/IA-Vol25Issue3.jpg</image>
+		<url>https://nac.unl.edu/documents/insideagroforestry/IA-Vol25Issue2.pdf#page=8</url>
+	</article>
+	<article>
+		<year>2017</year>
+		<volume>25</volume>
+		<issue>2</issue>
+		<topic>A New Lease on Life with Agroforestry</topic>
+		<author>Matt Stannard</author>
+		<practice>All</practice>
+		<region>All</region>
+		<keywords>new farmers</keywords>
+		<case-study>N</case-study>
+		<image>https://nac.unl.edu/images/publications/insideagroforestry/IA-Vol25Issue3.jpg</image>
+		<url>https://nac.unl.edu/documents/insideagroforestry/IA-Vol25Issue2.pdf#page=10</url>
+	</article>
+	<article>
+		<year>2017</year>
+		<volume>25</volume>
+		<issue>2</issue>
+		<topic>In Brief: A periodic summary of agroforestry-related journal articles</topic>
+		<author>John S. Weedon</author>
+		<practice>All</practice>
+		<region>All</region>
+		<keywords>new farmers</keywords>
+		<case-study>N</case-study>
+		<image>https://nac.unl.edu/images/publications/insideagroforestry/IA-Vol25Issue3.jpg</image>
+		<url>https://nac.unl.edu/documents/insideagroforestry/IA-Vol25Issue2.pdf#page=11</url>
+	</article>
+	<article>
+		<year>2017</year>
+		<volume>25</volume>
+		<issue>3</issue>
+		<topic>Windbreaks in the Webinar Library</topic>
+		<author>NAC Staff</author>
+		<practice>WB</practice>
+		<region>All</region>
+		<case-study>N</case-study>
+		<image>https://nac.unl.edu/images/publications/insideagroforestry/IA-Vol25Issue3.jpg</image>
+		<url>https://nac.unl.edu/documents/insideagroforestry/IA-Vol25Issue3.pdf#page=2</url>
+	</article>
+	<article>
+		<year>2017</year>
+		<volume>25</volume>
+		<issue>3</issue>
+		<topic>New Frontiers in Tree Inventory and Monitoring for the Central United States</topic>
+		<author>Todd Kellerman, Dacia Meneguzzo, Greg Liknes</author>
+		<practice>WB</practice>
+		<region>Great Plains</region>
+		<case-study>N</case-study>
+		<image>https://nac.unl.edu/images/publications/insideagroforestry/IA-Vol25Issue3.jpg</image>
+		<url>https://nac.unl.edu/documents/insideagroforestry/IA-Vol25Issue3.pdf#page=3</url>
+	</article>
+	<article>
+		<year>2017</year>
+		<volume>25</volume>
+		<issue>3</issue>
+		<topic>GIS and Remote Sensing for Kansas Windbreaks for Public Outreach</topic>
+		<author>Bob Achison, Darci Paull</author>
+		<practice>WB</practice>
+		<region>Great Plains</region>
+		<state>KS</state>
+		<case-study>N</case-study>
+		<image>https://nac.unl.edu/images/publications/insideagroforestry/IA-Vol25Issue3.jpg</image>
+		<url>https://nac.unl.edu/documents/insideagroforestry/IA-Vol25Issue3.pdf#page=4</url>
+	</article>
+	<article>
+		<year>2017</year>
+		<volume>25</volume>
+		<issue>3</issue>
+		<topic>Pacific Islands Multipurpose Windbreaks</topic>
+		<author>Richard Straight, Michael Constantinides</author>
+		<practice>WB</practice>
+		<region>Pacific Islands</region>
+		<case-study>Y</case-study>
+		<image>https://nac.unl.edu/images/publications/insideagroforestry/IA-Vol25Issue3.jpg</image>
+		<url>https://nac.unl.edu/documents/insideagroforestry/IA-Vol25Issue3.pdf#page=6</url>
+	</article>
+	<article>
+		<year>2017</year>
+		<volume>25</volume>
+		<issue>3</issue>
+		<topic>Vegetative Environmental Buffers for Mid-Atlantic Poultry Farms</topic>
+		<author>Shawn Belt</author>
+		<practice>WB</practice>
+		<region>Mid-Atlantic</region>
+		<case-study>N</case-study>
+		<image>https://nac.unl.edu/images/publications/insideagroforestry/IA-Vol25Issue3.jpg</image>
+		<url>https://nac.unl.edu/documents/insideagroforestry/IA-Vol25Issue3.pdf#page=8</url>
+	</article>
+	<article>
+		<year>2017</year>
+		<volume>25</volume>
+		<issue>3</issue>
+		<topic>Conserving the Dust Bowl</topic>
+		<author>NAC Staff</author>
+		<practice>WB</practice>
+		<region>Great Plains</region>
+		<case-study>N</case-study>
+		<image>https://nac.unl.edu/images/publications/insideagroforestry/IA-Vol25Issue3.jpg</image>
+		<url>https://nac.unl.edu/documents/insideagroforestry/IA-Vol25Issue3.pdf#page=11</url>
+	</article>
+	<article>
+		<year>2017</year>
+		<volume>25</volume>
+		<issue>3</issue>
+		<topic>In Brief: A Periodic Summary of Agroforestry-Related Journal Articles</topic>
+		<author>John S. Weedon</author>
+		<practice>WB</practice>
+		<region>All</region>
+		<case-study>N</case-study>
+		<image>https://nac.unl.edu/images/publications/insideagroforestry/IA-Vol25Issue3.jpg</image>
+		<url>https://nac.unl.edu/documents/insideagroforestry/IA-Vol25Issue3.pdf#page=10</url>
+	</article>
+	<article>
+		<year>2017</year>
+		<volume>25</volume>
+		<issue>3</issue>
+		<topic>More Windbreak Resources from NAC</topic>
+		<author>NAC Staff</author>
+		<practice>WB</practice>
+		<region>All</region>
+		<case-study>N</case-study>
+		<image>https://nac.unl.edu/images/publications/insideagroforestry/IA-Vol25Issue3.jpg</image>
+		<url>https://nac.unl.edu/documents/insideagroforestry/IA-Vol25Issue3.pdf#page=11</url>
+	</article>
+</data-set>
